@@ -1,4 +1,4 @@
-# 🧠 ML Signal Classifier
+# 🧠 ML Stenography Detector
 
 A machine learning pipeline for **binary classification** of statistical signal features using multiple classifiers and an ensemble voting model. The dataset contains ~70,000 samples of time-domain signal statistics extracted from EEG or similar time-series data.
 
